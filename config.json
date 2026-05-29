@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configrender",
+        "uuid": 24058962,
+        "checksum": "c6191f"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
